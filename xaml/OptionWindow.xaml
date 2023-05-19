@@ -155,7 +155,7 @@
     </GroupBox>
 
     <StackPanel Orientation="Vertical" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" VerticalAlignment="Bottom" Margin="0,5,0,0" Name="Apply_button">
-      <Button Name="Apply" Content="適応" FontSize="12" Style="{StaticResource MaterialDesignPaperButton}" />
+      <Button Name="Apply" Content="適用" FontSize="12" Style="{StaticResource MaterialDesignPaperButton}" />
     </StackPanel>
   </Grid>
 </metro:MetroWindow>
